@@ -1,0 +1,31 @@
+@media(max-width:768px){
+    div.wrapper{
+        width: 100%;
+    }
+    header{
+        width: 100%;
+        
+    }
+    .main-contein{margin-left: 3%;
+        width:100%
+    }
+    .left-contein{
+        width:48%
+    }
+    .right-contein{
+        width:49%;
+    }
+    .right-contein img{
+        width:100%
+    }
+    .card-mr {
+        margin-left: 166px;
+        color: darkred;
+    }
+    .secound-deck-card .card-body{
+        text-align: center;
+    }
+    .col-md-6{
+        text-align: center;
+    }
+}
